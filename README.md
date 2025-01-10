@@ -6,7 +6,7 @@ This project analyzes merchandise sales data from a fictional influencer's retai
 1. Understand data and perform Exploratory Data Analysis.
 2. Draw insights and conclusions.
 
-### Tools Used:
+#### Tools Used:
 Jupyter Notebook, Python (Libraries: NumPy, Pandas, Seaborn, Matplotlib)
 
 Data Source: https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales
